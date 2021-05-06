@@ -100,7 +100,7 @@ useHead({
                 <!--Component-->
                 <HubCard
                   title="Accordions"
-                  content="Get familiar with the Vuero accordion styles. Code examples included."
+                  content="time to Get familiar with the Vuero accordion styles. Code examples included."
                 >
                   <RouterLink :to="{ name: 'components-accordion' }">
                     Get Started
