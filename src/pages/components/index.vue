@@ -67,7 +67,7 @@ useHead({
               </div>
               <h3 class="title is-4 is-narrow is-thin">Vuero Components</h3>
               <p class="light-text">
-                This is the new Vuero components library with detailed code
+                This is my very own new Vuero components library with detailed code
                 examples.
               </p>
             </div>
